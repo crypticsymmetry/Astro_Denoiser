@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 
-<h1>Astro Image Denoiser</h1>
+<h1>Astro Image Denoiser - Created With GPT</h1>
 
 <p>This repository contains scripts and resources for training and inferencing a deep learning-based denoising model for astronomical images. The dataset consists of over 34,000 generated Deep Sky Object (DSO) images, each of size 512x512, stored in HDF5 format. The model leverages an encoder-decoder architecture with advanced components such as residual blocks, dense blocks, attention mechanisms, and transformers to achieve high-quality denoising.</p>
 
