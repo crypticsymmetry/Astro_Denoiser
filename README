@@ -1,0 +1,16 @@
+Astro Image Denoiser
+Astro Image Denoiser is a sophisticated deep learning-based image denoising tool designed to enhance astronomical images. This repository contains the implementation of a denoising neural network that leverages various advanced techniques, including residual blocks, dense blocks, attention mechanisms, wavelet transforms, and transformers.
+
+Features
+Advanced Architecture: Combines residual, dense, and attention mechanisms with wavelet transforms and transformers for high-quality denoising.
+Multi-Scale Feature Extraction: Captures both local and global features to effectively remove noise from astronomical images.
+Efficient Upsampling: Uses pixel shuffle blocks for efficient and high-quality image reconstruction.
+
+Model Architecture
+The model architecture consists of:
+
+Residual and Dense Blocks: For robust feature learning.
+Attention Mechanisms (CBAM and NonLocal): To focus on important features and capture long-range dependencies.
+Wavelet Transform: For multi-scale feature extraction.
+Swin Transformer Block: For capturing global context.
+Pixel Shuffle Blocks: For efficient upsampling and high-resolution image reconstruction.
