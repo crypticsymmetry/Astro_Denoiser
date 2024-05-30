@@ -1,7 +1,7 @@
 Astro Image Denoiser
 This repository contains scripts and resources for training and inferencing a deep learning-based denoising model for astronomical images. The dataset consists of over 34,000 generated Deep Sky Object (DSO) images, each of size 512x512, stored in HDF5 format. The model leverages an encoder-decoder architecture with advanced components such as residual blocks, dense blocks, attention mechanisms, and transformers to achieve high-quality denoising.
 
-https://scontent.fsac1-1.fna.fbcdn.net/v/t39.30808-6/438162856_10212534314870486_1017845874938956873_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=5f2048&_nc_ohc=BoNWHbJgdbwQ7kNvgEK0WLT&_nc_ht=scontent.fsac1-1.fna&oh=00_AYCGHBTkwFF-ZkrUl_xH6ufpoii4UkgGZPQCB8IdHWbG9w&oe=665DB626
+![alt text](https://scontent.fsac1-1.fna.fbcdn.net/v/t39.30808-6/438162856_10212534314870486_1017845874938956873_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=5f2048&_nc_ohc=BoNWHbJgdbwQ7kNvgEK0WLT&_nc_ht=scontent.fsac1-1.fna&oh=00_AYCGHBTkwFF-ZkrUl_xH6ufpoii4UkgGZPQCB8IdHWbG9w&oe=665DB626)
 
 This project provides a robust solution for denoising astronomical images. It includes:
 
