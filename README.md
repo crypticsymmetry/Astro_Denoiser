@@ -14,7 +14,7 @@
 <p>This project provides a robust solution for denoising astronomical images. It includes:</p>
 <ul>
     <li><strong>Training Notebook</strong>: A notebook to train the denoising model on the provided dataset.</li>
-    <li><strong>Inference Notebook</strong>: A notebook to apply the trained model to new noisy images of any size through tiling.(1920x1080 image takes around 30sec)</li>
+    <li><strong>Inference Notebook</strong>: A notebook to apply the trained model to new noisy images of any size through tiling.(1920x1080 image takes around 30sec on gpu)</li>
     <li><strong>Dataset</strong>: A large dataset of generated DSO images in HDF5 format.</li>
 </ul>
 
