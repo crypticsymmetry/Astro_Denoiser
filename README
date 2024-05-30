@@ -4,7 +4,7 @@ This repository contains scripts and resources for training and inferencing a de
 # Comparison of Original and Denoised Images
 
 <p float="left">
-  <img src="https://github.com/crypticsymmetry/Astro_Denoiser/blob/main/astro8%20(1).jpg" width="45%" />
+  <img src="https://github.com/crypticsymmetry/Astro_Denoiser/blob/main/astro8%20(1).jpg?raw=true" width="45%" />
   <img src="https://github.com/crypticsymmetry/Astro_Denoiser/blob/main/denoised_astro8%20(1).png" width="45%" />
 </p>
 
