@@ -1,9 +1,4 @@
 <!DOCTYPE html>
-<html>
-<head>
-    <title>Astro Image Denoiser</title>
-</head>
-<body>
 
 <h1>Astro Image Denoiser</h1>
 
