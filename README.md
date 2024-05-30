@@ -3,7 +3,7 @@ This repository contains scripts and resources for training and inferencing a de
 
 <p align="center">
   <img src="astro8 (1).jpg" alt="Original Image" width="400"/>
-  <img src="path/to/your/image2.png" alt="Denoised Image" width="400"/>
+  <img src="denoised_astro8 (1).png" alt="Denoised Image" width="400"/>
 </p>
 
 This project provides a robust solution for denoising astronomical images. It includes:
