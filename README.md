@@ -28,7 +28,7 @@
 
 <h2>Dataset</h2>
 
-<p>The dataset consists of over 34,000 Deep Sky Object images, each of size 512x512 pixels, generated using Stable Diffusion. The images are stored in HDF5 format for efficient access and processing.</p>
+<p>The dataset consists of over 34,000 Deep Sky Object images, each of size 512x512 pixels, generated using Stable Diffusion at 1024x1024 and downscaled to 512x512 using lancoz sampling. The images are stored in HDF5 format for efficient access and processing.</p>
 
 <ul>
     <li><strong>File</strong>: <code>SD_Astro_combined.h5</code></li>
